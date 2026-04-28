@@ -1,17 +1,20 @@
-<h1 align="center">Hi, I'm Jesús 👋</h1>
+<h1 align="center">Hi, I'm Jesús Martínez 👋</h1>
 
 <p align="center">
   💻 Full Stack Developer (Angular + Laravel) <br>
   🚀 Co-creator of DevConnect <br>
-  📍 Spain
+  📍 Madrid, Spain
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/jesús-martínez-escobar-223722374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:jesus.esnez@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jesusdev.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -23,7 +26,7 @@ Full Stack Developer specialized in **Angular and Laravel**, currently finishing
 
 Focused on building **scalable applications**, applying **clean code principles**, and ensuring quality through **automated testing**.
 
-Actively working on **DevConnect**, a social platform for developers.
+Actively developing **DevConnect**, a social platform for developers with a strong architecture and testing strategy.
 
 ---
 
@@ -53,42 +56,44 @@ Actively working on **DevConnect**, a social platform for developers.
 
 ## 🚀 Featured Project
 
-### 🔗 DevConnect
+### 🔗 DevConnect  
 > Social platform for developers built with Angular + Laravel
 
 - 🔐 Authentication with Laravel Sanctum  
 - 📰 Feed, posts, comments & likes  
 - 👥 User profiles & follow system  
 - 💾 Save posts & search users  
-- 🧪 Strong testing strategy:
-  - 74 E2E tests (Cypress)
-  - 75 backend tests (PHPUnit)
-  - 30 frontend tests (Karma)
+
+### 🧪 Testing Coverage
+- 74 E2E tests (Cypress)  
+- 75 backend tests (PHPUnit)  
+- 30 frontend tests (Karma)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&theme=default"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact"/>
 </p>
 
 ---
 
 ## 🎯 Currently
 
-- 🚀 Improving DevConnect architecture
-- 🧪 Expanding test coverage
-- 📈 Preparing for professional opportunities
+- 🚀 Improving DevConnect architecture  
+- 🧪 Expanding automated testing  
+- 📈 Open to internship and junior opportunities  
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: tuemail@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jesús-martínez-escobar-223722374/  
+- 📧 Email: jesus.esnez@gmail.com  
+- 🌐 Portfolio: https://jesusdev.dev  
 
 ---
 
