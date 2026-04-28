@@ -21,4 +21,4 @@ jobs:
           config_timezone: Europe/Madrid
 
           filename: github-metrics.svg
-          output_action: none
+          output_action: artifact
