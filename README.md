@@ -31,50 +31,41 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**.  
-Strong emphasis on **clean architecture, scalability, and automated testing**.
-
-Currently building **DevConnect**, a social platform for developers.
+Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**,  
+with strong emphasis on **clean architecture and automated testing**.
 
 ---
 
-## 🚀 DevConnect (Main Project)
+## 🚀 DevConnect
 
 Social platform for developers built with Angular + Laravel.
 
-- 🔐 Authentication (Laravel Sanctum)  
+**Core features**
+- 🔐 Authentication (Sanctum)  
 - 📰 Feed, posts, comments & likes  
 - 👥 Profiles & follow system  
 - 💾 Save posts & search users  
 
-### 🧪 Testing Coverage
-- 74 E2E (Cypress)  
-- 75 Backend (PHPUnit)  
-- 30 Frontend (Karma)  
+**Architecture**
+- 🧩 SPA (Angular + REST API)
+- ⚙️ Modular backend (Laravel)
+- 🗄️ MySQL / SQLite
+- 🐳 Dockerized environment
 
----
-
-## 🧠 Architecture (DevConnect)
-
-- 🧩 SPA architecture (Angular + REST API)
-- 🔐 Session-based auth with Laravel Sanctum
-- ⚙️ Modular backend (controllers, services, resources)
-- 🗄️ MySQL (production) / SQLite (development & testing)
-- 🧪 Full testing strategy:
-  - E2E → Cypress  
-  - Backend → PHPUnit  
-  - Frontend → Karma  
-- 🐳 Dockerized development environment
+**Testing**
+- 🧪 74 E2E (Cypress)  
+- 🧪 75 Backend (PHPUnit)  
+- 🧪 30 Frontend (Karma)  
 
 ---
 
 ## 💼 Proof of Work
 
 - 🧠 Designed full-stack architecture from scratch  
-- 🔐 Implemented secure authentication system  
-- 📈 Built scalable social features (feed, follows, interactions)  
-- 🧪 Achieved strong automated testing coverage  
-- ⚙️ Managed full development lifecycle (frontend + backend + testing)  
+- 🔐 Built secure authentication system  
+- 📈 Developed scalable social features  
+- 🧪 Implemented full automated testing strategy  
+- ⚙️ Managed full development lifecycle  
 
 ---
 
@@ -114,20 +105,14 @@ Social platform for developers built with Angular + Laravel.
 
 </div>
 
-<!-- 🔥 Si en el futuro arreglas metrics:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jesusdev98/jesusdev98/main/github-metrics.svg" />
-</p>
--->
-
 ---
 
 ## 🎯 Current Focus
 
-- 🧩 Improving full stack architecture  
-- 🧪 Expanding automated testing  
-- 🚀 Building scalable features in DevConnect  
-- 💼 Open to developer opportunities  
+- 🧩 Improving architecture  
+- 🧪 Expanding testing  
+- 🚀 Scaling DevConnect  
+- 💼 Open to opportunities  
 
 ---
 
