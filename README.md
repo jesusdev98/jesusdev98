@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  💡 Building scalable apps · 🧪 Testing-driven · ⚙️ Clean architecture
+</p>
+
+<p align="center">
   🚀 Co-creator of DevConnect · 📍 Madrid  
 </p>
 
@@ -32,13 +36,13 @@
 ## 👨‍💻 About Me
 
 Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**,  
-with strong emphasis on **clean architecture and automated testing**.
+with strong emphasis on **clean architecture, scalability, and automated testing**.
 
 ---
 
 ## 🚀 DevConnect
 
-Social platform for developers built with Angular + Laravel.
+A real-world social platform focused on **scalability, interaction systems and testing**.
 
 **Core features**
 - 🔐 Authentication (Sanctum)  
