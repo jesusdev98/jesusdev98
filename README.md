@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jesús Martínez 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%2B+Laravel;Clean+Code+%26+Testing;Building+real+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Full+Stack+Developer+·+Angular+%2B+Laravel;Building+real+applications;Clean+architecture+%26+testing" />
 </p>
 
 <p align="center">
@@ -25,10 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-blue" />
-  <img src="https://img.shields.io/badge/Testing-Covered-green" />
+  <img src="https://img.shields.io/badge/Angular-Laravel-red" />
+  <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit-green" />
   <img src="https://img.shields.io/badge/Architecture-Scalable-purple" />
-  <img src="https://img.shields.io/badge/Focus-FullStack-orange" />
 </p>
 
 ---
