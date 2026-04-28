@@ -38,9 +38,9 @@ Currently developing **DevConnect**, a social platform for developers with a sol
 ## 🧠 Architecture Mindset
 
 - 🧩 SPA (Angular) + REST API (Laravel)
-- 🔐 Auth with Sanctum (session-based)
-- 🧪 Testing: E2E + Backend + Frontend
-- 📦 Modular & scalable structure
+- 🔐 Authentication with Sanctum (session-based)
+- 🧪 Test-driven approach (E2E + Backend + Frontend)
+- 📦 Modular and scalable structure
 - 🔄 Separation of concerns
 
 ---
@@ -95,14 +95,14 @@ Social platform for developers built with Angular + Laravel
 
 <div align="center">
 
-| 📈 GitHub Stats | 💻 Most Used Languages |
-|----------------|----------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact&hide_border=true) |
+| 📈 Stats | 💻 Languages |
+|---------|-------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github) |
 
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jesusdev98&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusdev98&theme=github" />
 </p>
 
 ---
