@@ -21,4 +21,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Madrid
-          filename: github-metrics.svg   # 🔥 CLAVE
+          filename: github-metrics.svg
+          output_action: none   # 🔴 IMPORTANTE
+
+      - name: Move file
+        run: |
+          mv metrics_renders/github-metrics.svg github-metrics.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-metrics.svg
+          git commit -m "update metrics" || echo "no changes"
+          git push
