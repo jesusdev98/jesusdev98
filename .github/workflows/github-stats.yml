@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -21,7 +24,7 @@ jobs:
           config_timezone: Europe/Madrid
 
           filename: github-metrics.svg
-          output_action: none
+          output_action: commit
 
       - name: Push changes
         run: |
