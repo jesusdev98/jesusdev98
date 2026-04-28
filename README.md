@@ -24,9 +24,10 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on building real applications with **Angular and Laravel**, applying clean code and testing practices.  
+Full Stack Developer focused on building **real-world applications** with Angular and Laravel.  
+Strong emphasis on **clean architecture, scalability, and automated testing**.
 
-Currently developing **DevConnect**, a social platform for developers with a strong architecture and testing strategy.
+Currently building **DevConnect**, a social platform for developers.
 
 ---
 
@@ -34,12 +35,12 @@ Currently developing **DevConnect**, a social platform for developers with a str
 
 Social platform for developers built with Angular + Laravel.
 
-- 🔐 Authentication (Sanctum)  
+- 🔐 Authentication (Laravel Sanctum)  
 - 📰 Feed, posts, comments & likes  
 - 👥 Profiles & follow system  
 - 💾 Save posts & search users  
 
-### 🧪 Testing
+### 🧪 Testing Coverage
 - 74 E2E (Cypress)  
 - 75 Backend (PHPUnit)  
 - 30 Frontend (Karma)  
@@ -82,11 +83,12 @@ Social platform for developers built with Angular + Laravel.
 
 </div>
 
-<!-- FUTURO (cuando funcione GitHub Actions):
+<!-- 🔥 CUANDO ACTIVES METRICS (reemplaza lo de arriba por esto)
+
 <p align="center">
-  <img src="generated/overview.svg" />
-  <img src="generated/languages.svg" />
+  <img src="/github-metrics.svg" />
 </p>
+
 -->
 
 ---
@@ -94,7 +96,7 @@ Social platform for developers built with Angular + Laravel.
 ## 🎯 Current Focus
 
 - 🧩 Improving full stack architecture (Angular + Laravel)  
-- 🧪 Strengthening automated testing (Cypress & PHPUnit)  
+- 🧪 Expanding automated testing (Cypress & PHPUnit)  
 - 🚀 Building scalable features in DevConnect  
 - 💼 Open to developer opportunities  
 
