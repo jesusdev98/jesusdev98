@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Co-creator of DevConnect · 📍 Madrid  
+  🚀 Co-creator of DevConnect · 📍 Madrid
 </p>
 
 <p align="center">
@@ -24,23 +24,23 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on building **real-world applications** with Angular and Laravel.  
-Strong emphasis on **clean architecture, scalability, and automated testing**.
-
-Currently building **DevConnect**, a social platform for developers.
+💻 Full Stack Developer specialized in **Angular + Laravel**  
+⚙️ Focused on **clean architecture, scalability & testing**  
+🚀 Building **real-world applications**, not just demos  
 
 ---
 
-## 🚀 DevConnect
+## 🚀 DevConnect (Main Project)
 
-Social platform for developers built with Angular + Laravel.
+> Social platform for developers
 
-- 🔐 Authentication (Laravel Sanctum)  
+- 🔐 Auth with Laravel Sanctum  
 - 📰 Feed, posts, comments & likes  
 - 👥 Profiles & follow system  
-- 💾 Save posts & search users  
+- 💾 Save posts & search  
 
-### 🧪 Testing Coverage
+### 🧪 Testing
+
 - 74 E2E (Cypress)  
 - 75 Backend (PHPUnit)  
 - 30 Frontend (Karma)  
@@ -49,44 +49,35 @@ Social platform for developers built with Angular + Laravel.
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
-</p>
-
-### 🔙 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
-</p>
-
-### 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress" />
-  <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,git,github,docker,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jesusdev98?template=classic&base=header,activity,community,repositories&config.timezone=Europe/Madrid" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jesusdev98&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧩 Improving full stack architecture (Angular + Laravel)  
-- 🧪 Expanding automated testing (Cypress & PHPUnit)  
-- 🚀 Building scalable features in DevConnect  
-- 💼 Open to developer opportunities  
+- 🧩 Improving architecture (Angular + Laravel)  
+- 🧪 Expanding automated testing  
+- 🚀 Scaling DevConnect  
+- 💼 Open to opportunities  
 
 ---
 
