@@ -51,44 +51,32 @@ Social platform for developers built with Angular + Laravel.
 
 ### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
 ### 🔙 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
 </p>
 
 ### 🧪 Testing
 <p>
-<img src="https://skillicons.dev/icons?i=cypress" />
-<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cypress" />
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
 
-## 📊 Activity
-
-<div align="center">
-
-| Stats | Languages |
-|------|----------|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github) |
-
-</div>
-
----
-
-## 🔥 GitHub Metrics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jesusdev98/jesusdev98/main/github-metrics.svg" />
+  <img src="https://metrics.lecoq.io/jesusdev98?template=classic&base=header,activity,community,repositories&config.timezone=Europe/Madrid" />
 </p>
 
 ---
