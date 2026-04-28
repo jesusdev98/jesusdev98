@@ -82,6 +82,13 @@ Social platform for developers built with Angular + Laravel.
 
 </div>
 
+<!-- FUTURO (cuando funcione GitHub Actions):
+<p align="center">
+  <img src="generated/overview.svg" />
+  <img src="generated/languages.svg" />
+</p>
+-->
+
 ---
 
 ## 🎯 Current Focus
