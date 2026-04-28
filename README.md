@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Jesús Martínez 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Angular+%2B+Laravel;Clean+Code+%26+Testing;Open+to+Opportunities" />
+</p>
+
+<p align="center">
   💻 Full Stack Developer (Angular + Laravel) <br>
   🚀 Co-creator of DevConnect <br>
   📍 Madrid, Spain <br>
@@ -28,6 +32,16 @@ Full Stack Developer specialized in **Angular and Laravel**, focused on building
 Strong emphasis on **software quality and automated testing** (Cypress, PHPUnit, Karma).
 
 Currently developing **DevConnect**, a social platform for developers with a solid architecture and testing strategy.
+
+---
+
+## 🧠 Architecture Mindset
+
+- 🧩 SPA (Angular) + REST API (Laravel)
+- 🔐 Auth with Sanctum (session-based)
+- 🧪 Testing: E2E + Backend + Frontend
+- 📦 Modular & scalable structure
+- 🔄 Separation of concerns
 
 ---
 
@@ -62,29 +76,33 @@ Currently developing **DevConnect**, a social platform for developers with a sol
 
 ## 🚀 Featured Project
 
-### 🔗 DevConnect  
-> Social platform for developers built with Angular + Laravel
+### 🔗 DevConnect
+Social platform for developers built with Angular + Laravel
 
-- 🔐 Authentication with Laravel Sanctum  
+- 🔐 Authentication (Sanctum)  
 - 📰 Feed, posts, comments & likes  
-- 👥 User profiles & follow system  
+- 👥 Profiles & follow system  
 - 💾 Save posts & search users  
 
 ### 🧪 Testing Coverage
-- 74 E2E tests (Cypress)  
-- 75 backend tests (PHPUnit)  
-- 30 frontend tests (Karma)  
+- 74 E2E (Cypress)  
+- 75 Backend (PHPUnit)  
+- 30 Frontend (Karma)  
 
 ---
 
 ## 📊 GitHub Activity
 
+<div align="center">
+
+| 📈 GitHub Stats | 💻 Most Used Languages |
+|----------------|----------------------|
+| ![](https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact&hide_border=true) |
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&count_private=true&include_all_commits=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=jesusdev98" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=jesusdev98&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +111,7 @@ Currently developing **DevConnect**, a social platform for developers with a sol
 
 - 🚀 Improving DevConnect architecture  
 - 🧪 Expanding automated testing  
-- 📈 Open to internship and developer opportunities  
+- 📈 Open to opportunities  
 
 ---
 
