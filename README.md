@@ -3,7 +3,8 @@
 <p align="center">
   💻 Full Stack Developer (Angular + Laravel) <br>
   🚀 Co-creator of DevConnect <br>
-  📍 Madrid, Spain
+  📍 Madrid, Spain <br>
+  📈 Open to new opportunities
 </p>
 
 <p align="center">
@@ -22,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer specialized in **Angular and Laravel**, currently finishing my Higher Degree in Web Development (DAW).
+Full Stack Developer specialized in **Angular and Laravel**, focused on building scalable applications and applying clean code principles.
 
-Focused on building **scalable applications**, applying **clean code principles**, and ensuring quality through **automated testing**.
+Strong emphasis on **software quality and automated testing** (Cypress, PHPUnit, Karma).
 
-Actively developing **DevConnect**, a social platform for developers.
+Currently developing **DevConnect**, a social platform for developers with a solid architecture and testing strategy.
 
 ---
 
@@ -76,21 +77,23 @@ Actively developing **DevConnect**, a social platform for developers.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&count_private=true&include_all_commits=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact"/>
+  <img src="https://streak-stats.demolab.com?user=jesusdev98" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact" />
 </p>
 
 ---
 
-## 🎯 Currently
+## 🎯 Current Focus
 
 - 🚀 Improving DevConnect architecture  
 - 🧪 Expanding automated testing  
-- 📈 Open to internship and junior opportunities  
+- 📈 Open to internship and developer opportunities  
 
 ---
 
