@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jesús Martínez 👋</h1>
 
 <p align="center">
-  Full Stack Developer · Angular + Laravel  
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%2B+Laravel;Clean+Code+%26+Testing;Building+real+applications" />
 </p>
 
 <p align="center">
@@ -10,15 +10,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jesús-martínez-escobar-223722374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jesus.esnez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://jesusdev.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+Full Stack Developer focused on building real applications with **Angular and Laravel**, applying clean code and testing practices.  
+
+Currently developing **DevConnect**, a social platform for developers with a strong architecture and testing strategy.
 
 ---
 
@@ -26,7 +34,7 @@
 
 Social platform for developers built with Angular + Laravel.
 
-- 🔐 Authentication (Sanctum)
+- 🔐 Authentication (Sanctum)  
 - 📰 Feed, posts, comments & likes  
 - 👥 Profiles & follow system  
 - 💾 Save posts & search users  
@@ -38,28 +46,30 @@ Social platform for developers built with Angular + Laravel.
 
 ---
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
-**Backend:** Laravel · PHP · MySQL  
-**Frontend:** Angular · TypeScript · JS · HTML · CSS  
-**Testing:** Cypress · PHPUnit · Karma  
-**Tools:** Git · GitHub · Docker · Linux  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,docker,git,github,linux" />
+</p>
 
 ---
 
 ## 📊 Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github" />
-</p>
+<div align="center">
+
+| Stats | Languages |
+|------|----------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github) |
+
+</div>
 
 ---
 
-## 🎯 Focus
+## 🎯 Current Focus
 
 - Improving architecture  
-- Expanding testing  
+- Expanding automated testing  
 - Open to opportunities  
 
 ---
