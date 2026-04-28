@@ -83,13 +83,13 @@ Social platform for developers built with Angular + Laravel.
 
 </div>
 
-<!-- 🔥 CUANDO ACTIVES METRICS (reemplaza lo de arriba por esto)
+---
+
+## 🔥 GitHub Metrics
 
 <p align="center">
-  <img src="/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/jesusdev98/jesusdev98/main/github-metrics.svg" />
 </p>
-
--->
 
 ---
 
