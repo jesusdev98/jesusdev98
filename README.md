@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Co-creator of DevConnect · 📍 Madrid
+  🚀 Co-creator of DevConnect · 📍 Madrid  
 </p>
 
 <p align="center">
@@ -20,64 +20,114 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean-blue" />
+  <img src="https://img.shields.io/badge/Testing-Covered-green" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-purple" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-orange" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-💻 Full Stack Developer specialized in **Angular + Laravel**  
-⚙️ Focused on **clean architecture, scalability & testing**  
-🚀 Building **real-world applications**, not just demos  
+Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**.  
+Strong emphasis on **clean architecture, scalability, and automated testing**.
+
+Currently building **DevConnect**, a social platform for developers.
 
 ---
 
 ## 🚀 DevConnect (Main Project)
 
-> Social platform for developers
+Social platform for developers built with Angular + Laravel.
 
-- 🔐 Auth with Laravel Sanctum  
+- 🔐 Authentication (Laravel Sanctum)  
 - 📰 Feed, posts, comments & likes  
 - 👥 Profiles & follow system  
-- 💾 Save posts & search  
+- 💾 Save posts & search users  
 
-### 🧪 Testing
-
+### 🧪 Testing Coverage
 - 74 E2E (Cypress)  
 - 75 Backend (PHPUnit)  
 - 30 Frontend (Karma)  
 
 ---
 
+## 🧠 Architecture (DevConnect)
+
+- 🧩 SPA architecture (Angular + REST API)
+- 🔐 Session-based auth with Laravel Sanctum
+- ⚙️ Modular backend (controllers, services, resources)
+- 🗄️ MySQL (production) / SQLite (development & testing)
+- 🧪 Full testing strategy:
+  - E2E → Cypress  
+  - Backend → PHPUnit  
+  - Frontend → Karma  
+- 🐳 Dockerized development environment
+
+---
+
+## 💼 Proof of Work
+
+- 🧠 Designed full-stack architecture from scratch  
+- 🔐 Implemented secure authentication system  
+- 📈 Built scalable social features (feed, follows, interactions)  
+- 🧪 Achieved strong automated testing coverage  
+- ⚙️ Managed full development lifecycle (frontend + backend + testing)  
+
+---
+
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,git,github,docker,linux" />
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+### 🔙 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
+</p>
+
+### 🧪 Testing
+<p>
+<img src="https://skillicons.dev/icons?i=cypress" />
+<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
+<div align="center">
+
+| Stats | Languages |
+|------|----------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github) |
+
+</div>
+
+<!-- 🔥 Si en el futuro arreglas metrics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusdev98&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdev98&layout=compact&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/jesusdev98/jesusdev98/main/github-metrics.svg" />
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jesusdev98&hide_border=true" />
-</p>
+-->
 
 ---
 
 ## 🎯 Current Focus
 
-- 🧩 Improving architecture (Angular + Laravel)  
+- 🧩 Improving full stack architecture  
 - 🧪 Expanding automated testing  
-- 🚀 Scaling DevConnect  
-- 💼 Open to opportunities  
+- 🚀 Building scalable features in DevConnect  
+- 💼 Open to developer opportunities  
 
 ---
 
