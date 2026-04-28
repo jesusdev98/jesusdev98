@@ -21,7 +21,7 @@ jobs:
           config_timezone: Europe/Madrid
 
           filename: github-metrics.svg
-          output_action: commit
+          output_action: none
 
       - name: Push changes
         run: |
