@@ -48,8 +48,26 @@ Social platform for developers built with Angular + Laravel.
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,laravel,php,mysql,docker,git,github,linux" />
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+### 🔙 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
+</p>
+
+### 🧪 Testing
+<p>
+<img src="https://skillicons.dev/icons?i=cypress" />
+<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
@@ -68,9 +86,10 @@ Social platform for developers built with Angular + Laravel.
 
 ## 🎯 Current Focus
 
-- Improving architecture  
-- Expanding automated testing  
-- Open to opportunities  
+- 🧩 Improving full stack architecture (Angular + Laravel)  
+- 🧪 Strengthening automated testing (Cypress & PHPUnit)  
+- 🚀 Building scalable features in DevConnect  
+- 💼 Open to developer opportunities  
 
 ---
 
