@@ -32,17 +32,16 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**,  
 with strong emphasis on **scalable architecture, maintainability, and automated testing**.
 
-I design and develop complete systems end-to-end, from architecture to deployment,  
-prioritizing clean code, performance and reliability.
+I design and develop complete systems end-to-end, prioritizing clean code, performance and reliability.
 
 ---
 
-## DevConnect
+## 🚀 DevConnect
 
 A full-stack social platform designed as a **real production-like system**, focused on scalability and interaction.
 
@@ -65,17 +64,17 @@ A full-stack social platform designed as a **real production-like system**, focu
 
 ---
 
-## Proof of Work
+## 💼 Proof of Work
 
 - Designed full system architecture from scratch  
 - Implemented secure authentication and API structure  
 - Developed scalable interaction features  
 - Built complete automated testing strategy  
-- Managed full development lifecycle (design → development → testing → deployment)  
+- Managed full development lifecycle  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 <p>
@@ -87,21 +86,21 @@ A full-stack social platform designed as a **real production-like system**, focu
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
 </p>
 
-### Testing
+### 🧪 Testing
 <p>
 <img src="https://skillicons.dev/icons?i=cypress" />
 <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
 </p>
 
-### Tools
+### ⚙️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -117,12 +116,12 @@ A full-stack social platform designed as a **real production-like system**, focu
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Improving system architecture  
-- Expanding automated testing coverage  
+- Expanding automated testing  
 - Scaling DevConnect  
-- Actively seeking professional opportunities  
+- Open to opportunities  
 
 ---
 
