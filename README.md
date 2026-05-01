@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Jesús Martínez 👋</h1>
+<h1 align="center">Jesús Martínez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Full+Stack+Developer+·+Angular+%2B+Laravel;Building+real+applications;Clean+architecture+%26+testing" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Angular+%2B+Laravel;Building+real-world+applications;Clean+architecture+%26+testing" />
 </p>
 
 <p align="center">
-  💡 Building scalable apps · 🧪 Testing-driven · ⚙️ Clean architecture
+  Full Stack Developer · Angular + Laravel · Clean Architecture · Testing
 </p>
 
 <p align="center">
-  🚀 Co-creator of DevConnect · 📍 Madrid  
+  Co-creator of DevConnect · Madrid
 </p>
 
 <p align="center">
@@ -32,91 +32,98 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Full Stack Developer focused on building **real-world applications** with **Angular + Laravel**,  
-with strong emphasis on **clean architecture, scalability, and automated testing**.
+with strong emphasis on **scalable architecture, maintainability, and automated testing**.
+
+I design and develop complete systems end-to-end, from architecture to deployment,  
+prioritizing clean code, performance and reliability.
 
 ---
 
-## 🚀 DevConnect
+## DevConnect
 
-A real-world social platform focused on **scalability, interaction systems and testing**.
+A full-stack social platform designed as a **real production-like system**, focused on scalability and interaction.
 
 **Core features**
-- 🔐 Authentication (Sanctum)  
-- 📰 Feed, posts, comments & likes  
-- 👥 Profiles & follow system  
-- 💾 Save posts & search users  
+- Authentication system (Laravel Sanctum)  
+- Feed, posts, comments and likes  
+- User profiles and follow system  
+- Saved posts and search functionality  
 
 **Architecture**
-- 🧩 SPA (Angular + REST API)
-- ⚙️ Modular backend (Laravel)
-- 🗄️ MySQL / SQLite
-- 🐳 Dockerized environment
+- SPA (Angular + REST API)  
+- Modular backend (Laravel)  
+- MySQL / SQLite (dev)  
+- Dockerized environment  
 
 **Testing**
-- 🧪 74 E2E (Cypress)  
-- 🧪 75 Backend (PHPUnit)  
-- 🧪 30 Frontend (Karma)  
+- 74 E2E tests (Cypress)  
+- 75 backend tests (PHPUnit)  
+- 30 frontend tests (Karma/Jasmine)  
 
 ---
 
-## 💼 Proof of Work
+## Proof of Work
 
-- 🧠 Designed full-stack architecture from scratch  
-- 🔐 Built secure authentication system  
-- 📈 Developed scalable social features  
-- 🧪 Implemented full automated testing strategy  
-- ⚙️ Managed full development lifecycle  
+- Designed full system architecture from scratch  
+- Implemented secure authentication and API structure  
+- Developed scalable interaction features  
+- Built complete automated testing strategy  
+- Managed full development lifecycle (design → development → testing → deployment)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 </p>
 
-### 🔙 Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
 </p>
 
-### 🧪 Testing
+### Testing
 <p>
 <img src="https://skillicons.dev/icons?i=cypress" />
 <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-| Stats | Languages |
-|------|----------|
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusdev98&theme=github" />
+
+<br/>
+
+| Stats | Top Languages |
+|------|-------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jesusdev98&theme=github) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jesusdev98&theme=github) |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🧩 Improving architecture  
-- 🧪 Expanding testing  
-- 🚀 Scaling DevConnect  
-- 💼 Open to opportunities  
+- Improving system architecture  
+- Expanding automated testing coverage  
+- Scaling DevConnect  
+- Actively seeking professional opportunities  
 
 ---
 
-<p align="center">✨ Thanks for visiting ✨</p>
+<p align="center">Thanks for visiting</p>
