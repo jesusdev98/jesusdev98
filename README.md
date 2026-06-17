@@ -135,8 +135,8 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="./assets/icons/chatgpt.png" width="48" height="48" alt="ChatGPT" title="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="ChatGPT / OpenAI" title="ChatGPT / OpenAI" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-code.svg" width="48" height="48" alt="Claude Code" title="Claude Code" />
 </p>
 
 I use AI-assisted development tools to support code review, debugging, documentation and refactoring, while keeping technical ownership of the final implementation.
