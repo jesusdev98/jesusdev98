@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-FF2D20?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-MySQL%20%7C%20PostgreSQL%20%7C%20Neon%20%7C%20Supabase-00E599?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-6E9F18?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Codex%20%7C%20Claude_Code-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude_Code-412991?style=for-the-badge"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/codex-openai.svg" width="48" height="48" alt="Codex" title="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT / OpenAI" title="ChatGPT / OpenAI" />
   <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
 </p>
 
