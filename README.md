@@ -135,7 +135,7 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT / OpenAI" title="ChatGPT / OpenAI" />
+  <img src="./assets/icons/chatgpt.png" width="48" height="48" alt="ChatGPT" title="ChatGPT" />
   <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
 </p>
 
