@@ -135,7 +135,7 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="Codex" title="Codex / OpenAI" />
+  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/codex-openai.svg" width="48" height="48" alt="Codex" title="Codex" />
   <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code" title="Claude Code" />
 </p>
 
