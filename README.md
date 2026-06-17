@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Jesús Martínez</h1>
 
 <p align="center">
@@ -159,5 +159,5 @@ I use AI tools as part of my development workflow for code review, debugging, do
 ---
 
 <p align="center">Thanks for visiting</p>
-```
+
 
