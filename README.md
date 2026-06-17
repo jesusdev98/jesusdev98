@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-FF2D20?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-MySQL%20%7C%20PostgreSQL%20%7C%20Neon%20%7C%20Supabase-00E599?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-6E9F18?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Codex%20%7C%20Claude_Code-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Codex%20%7C%20Claude_Code-412991?style=for-the-badge"/>
 </p>
 
 ---
