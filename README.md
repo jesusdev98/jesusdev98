@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20OpenAI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-DD0031?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-FF2D20?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-6E9F18?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ChatGPT%20%7C%20Codex%20%7C%20Claude_Code-412991?style=for-the-badge"/>
 </p>
 
 ---
@@ -115,8 +115,9 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### Testing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress,vitest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Karma-56C8C8?style=for-the-badge&logo=karma&logoColor=white"/>
 </p>
 
@@ -135,11 +136,12 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-I use AI tools as part of my development workflow for code review, debugging, documentation, refactoring and productivity, always validating the output and keeping technical control over the final implementation.
+I use AI-assisted development tools to support code review, debugging, documentation and refactoring, while keeping technical ownership of the final implementation.
 
 ---
 
