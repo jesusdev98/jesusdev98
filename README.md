@@ -135,7 +135,6 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### AI-Assisted Development
 
 <p>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="ChatGPT / OpenAI" title="ChatGPT / OpenAI" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="48" height="48" alt="Codex" title="Codex" />
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="48" height="48" alt="Claude Code" title="Claude Code" />
 </p>
