@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red" />
-  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-blue" />
-  <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-green" />
-  <img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20OpenAI-purple" />
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Java-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-Cypress%20%7C%20PHPUnit%20%7C%20Vitest-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Claude%20Code%20%7C%20OpenAI-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -97,34 +97,46 @@ A full-stack social platform designed as a **real production-like system**, focu
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,java,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,java" />
 </p>
 
-**Main focus:** Laravel, REST APIs, authentication, relational databases and backend architecture.  
-**Also familiar with:** Java fundamentals and object-oriented programming.
+**Main focus:** Laravel, REST APIs, authentication, backend architecture and object-oriented programming.  
+**Also familiar with:** Java fundamentals and structured backend development.
 
-### 🧪 Testing
+### Databases & Cloud Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cypress" />
-  <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Karma-56C8C8?style=flat&logo=karma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black"/>
 </p>
 
-### ⚙️ Tools & Workflow
+**Experience with:** relational database design, SQL queries, migrations, development databases and cloud-hosted PostgreSQL environments.
+
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,vitest" />
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Karma-56C8C8?style=for-the-badge&logo=karma&logoColor=white"/>
+</p>
+
+**Testing focus:** E2E testing, backend feature tests, unit tests, API validation and regression prevention.
+
+### Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-  <img src="https://img.shields.io/badge/SSH-111111?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSH-111111?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🤖 AI-Assisted Development
+**Workflow:** Git/GitHub, CI pipelines, Dockerized environments, Linux servers, SSH access and development automation.
+
+### AI-Assisted Development
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 I use AI tools as part of my development workflow for code review, debugging, documentation, refactoring and productivity, always validating the output and keeping technical control over the final implementation.
@@ -153,11 +165,10 @@ I use AI tools as part of my development workflow for code review, debugging, do
 - Expanding automated testing
 - Scaling real-world full-stack applications
 - Strengthening Angular, Laravel, React and Java fundamentals
+- Working with relational databases and cloud-hosted data platforms
 - Using AI-assisted development with technical validation
 - Open to opportunities
 
 ---
 
 <p align="center">Thanks for visiting</p>
-
-
